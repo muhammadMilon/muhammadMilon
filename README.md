@@ -1,4 +1,4 @@
-(https://avatars.githubusercontent.com/u/137856681?s=400&u=1f9c53eb8213217d7947061af94ecaf5d18e0c48&v=4)
+https://avatars.githubusercontent.com/u/137856681?s=400&u=1f9c53eb8213217d7947061af94ecaf5d18e0c48&v=4
 ### Hi there 👋, my name is Muhammad Milon
 #### I am a student and a noob problem solver 👨‍💻
 ![I am a student and a noob problem solver 👨‍💻]
