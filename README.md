@@ -6,8 +6,8 @@ I studies BSc(Engr) in Computer Sceince and Engineering at Shahjalal University 
 
 Skills: C and C++
 
-- 🔭 I’m currently working on developing my programming knowledge 
-- 🌱 I’m currently learning c++ 
+- 🔭 I’m currently working on developing my programming knowledge and problem solving skills
+- 🌱 I’m currently learning Data structure and Algorithm
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with chatGPT and Youtube 
 - 📫 How to reach me: Via messenger 🤔 
@@ -22,12 +22,5 @@ Skills: C and C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadMilon)  
-
 ![GitHub metrics](https://metrics.lecoq.io/muhammadMilon)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammadMilon)  
-
-![Profile views](https://gpvc.arturio.dev/muhammadMilon)  
+ 
