@@ -23,5 +23,4 @@ Skills: C and C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/muhammadMilon)  
  
