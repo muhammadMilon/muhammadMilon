@@ -32,13 +32,10 @@ Skills: C and C++
 <a href="https://linkedin.com/in/muhammadmilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmilon" height="30" width="40" /></a>
 <a href="https://fb.com/milonvai143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milonvai143" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mmilon82814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mmilon82814" height="30" width="40" /></a>
+ 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@milonvai143) 
 </p>
 
-
-
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@milonvai143) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark&hide_border=false)<br/>
