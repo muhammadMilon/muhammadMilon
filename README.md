@@ -59,29 +59,3 @@ Skills: C and C++
 
 
 
-
-
-
-
-
-
-
-
-
-<style>
-  .icon {
-    color: #0074e4; /* Set your desired color here */
-  }
-</style>
-
-<a href="https://github.com/muhammadMilon" class="icon">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
-</a>
-
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammadmilon//" class="icon">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
-</a>
-
-<a href="https://www.facebook.com/https://www.facebook.com/milonvai143" class="icon">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">
-</a>
