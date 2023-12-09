@@ -12,7 +12,6 @@ Skills: C and C++
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with chatGPT and Youtube 
 - 📫 How to reach me: Via messenger 🤔 
-- ⚡ Fun fact: I am not joker,Okay? 😄 
 
 
 
