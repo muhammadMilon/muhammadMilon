@@ -1,7 +1,7 @@
 # Hi there 👋, ***Assalamu Alaiqum***
 My name is Muhammad Milon
 #### I am a student and a noob problem solver 👨‍💻
-![I am a student and a noob problem solver 👨‍💻](https://avatars.githubusercontent.com/u/137856681?s=400&u=1f9c53eb8213217d7947061af94ecaf5d18e0c48&v=4)
+![I am a student and a noob problem solver 👨‍💻]
 
 
 <div align="center">
