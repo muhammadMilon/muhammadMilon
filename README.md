@@ -1,6 +1,6 @@
 # Hi there 👋, ***Assalamu Alaiqum***
 My name is Muhammad Milon
-#### I am a student and a noob problem solver 👨‍💻
+#### I am a student,passionate programmer and noob problem solver. 👨‍💻
 
 
 
