@@ -27,6 +27,7 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +38,10 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@milonvai143) 
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -48,14 +53,3 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
-
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-## Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&theme=dark&hide_border=false&langs_count=10&layout=compact)
-
-## Contribution Percentage:
-![Contribution Percentage](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadMilon&layout=compact)
-
