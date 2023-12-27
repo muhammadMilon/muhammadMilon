@@ -27,8 +27,6 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadmilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmilon" height="30" width="40" /></a>
