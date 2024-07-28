@@ -19,7 +19,6 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 - 🤔 I’m looking for help with ChatGPT and YouTube.
 - 📫 How to reach me: Via messenger 🤔 
 
-![](https://komarev.com/ghpvc/?username=muhammadMilon&color=green)
 
 
 
