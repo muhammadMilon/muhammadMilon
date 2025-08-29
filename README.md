@@ -1,8 +1,8 @@
-# Hi there 👋, ***Assalamu Alaiqum***
-My name is Muhammad Milon
-#### I am a student,passionate programmer and noob problem solver. 👨‍💻
+# Hi there 👋, ***Assalamu Alaikum***
+My name is **Muhammad Milon**  
+#### CSE Undergraduate | Aspiring Full-Stack Software Engineer | Passionate Programmer 👨‍💻  
 
-
+---
 
 <div align="center">
 
@@ -10,42 +10,104 @@ My name is Muhammad Milon
 
 </div>
 
+---
 
-I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjalal University of Science and Technology, Sylhet.
+## 👨‍🎓 About Me  
+I’m currently pursuing **BSc (Engr.) in Computer Science and Engineering** at **Shahjalal University of Science and Technology, Sylhet**.  
 
-- 🔭 I’m currently working on developing my programming knowledge and problem-solving skills.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with ChatGPT and YouTube.
-- 📫 How to reach me: Via messenger 🤔 
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadmilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmilon" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Miiiiiiilon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milonvai143" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mmilon82814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mmilon82814" height="30" width="40" /></a>
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@milonvai143) 
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Exploring **Full-Stack Web Development** with **MERN stack**  
+- 🌱 Currently learning **Data Structures, Algorithms, and System Design**  
+- 👯 Open to collaborating on **GitHub projects**  
+- 🤔 Seeking guidance in **AI/ML** and **YouTube content creation**  
+- 💡 Passionate about **problem solving** and building **scalable applications**  
+- 📫 How to reach me: **[Messenger](https://www.facebook.com/Miiiilon/)** or **Email: mmilon82814@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Academic Journey  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+- **School:** Baldia Adarsha High School, Kurigram *(Class of 2019)*  
+- **College:** Kurigram Government College *(Class of 2021)*  
+- **University:** Shahjalal University of Science and Technology, Sylhet *(Session: 2021–22, Dept: CSE)*  
 
+---
+
+## 🌟 Extracurricular Activities  
+
+- **Bangladesh National Cadet Corps (BNCC)** → *Senior Cadet*  
+- **Manush Manusher Jonno Foundation (MMJF)** → *Volunteer*  
+- **Islamic Knowledge Seekers of SUST (IKSS)** → *Publication Secretary*  
+
+---
+
+## 💻 Tech Stack  
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🍎 Fruit Panda  
+MERN stack platform connecting farmers directly with buyers for seasonal fruit delivery.  
+*Features:* Real-time inventory, secure payments, route optimization.  
+**Tech:** React, Node.js, MongoDB, Express  
+
+### 👨‍💻 CodeKitchen  
+Interactive interview prep platform with topic-wise quizzes, coding challenges, and tutorials.  
+**Tech:** React, Firebase, Material-UI  
+
+### 🤖 AI Chat Assistant  
+Smart chatbot with NLP and context-aware conversations.  
+**Tech:** Python, TensorFlow, Flask  
+
+### 🎮 Tic-Tac-Toe AI  
+Unbeatable AI Tic-Tac-Toe with Minimax algorithm and GUI.  
+**Tech:** Java, Swing  
+
+### 💬 Simple ChatRoom  
+Client-server chat application with multi-user support.  
+**Tech:** Java, Socket, Multithreading  
+
+---
+
+## ✍️ Blog (Coming Soon...)  
+
+- 📝 *My Journey into Full-Stack Development*  
+- 🎓 *Tips for CS Students*  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&theme=dark&hide_border=false&layout=compact)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://linkedin.com/in/muhammadmilon" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/Miiiilon/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://youtube.com/@milonvai143" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://github.com/muhammadMilon" target="blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)  
 
