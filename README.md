@@ -77,3 +77,6 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 ---
 
 [![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="./gitartwork.svg" alt="GitHub Art" />
+</p>
