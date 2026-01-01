@@ -17,7 +17,7 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 
 ## 🌱 Current Activities  
 - 🔭 Exploring **Next.js** and modern frontend architecture  
-- 🧭 Working on a **Tourism website**  
+- 🧭 Working on a **E-commerce website**  
 - 🌱 Learning **Data Structures, Algorithms, and System Design**  
 - 👯 Collaborating on **GitHub projects**  
 
