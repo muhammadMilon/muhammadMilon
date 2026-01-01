@@ -52,11 +52,12 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 
 ## 📊 GitHub Stats  
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark)  
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark&cache_seconds=86400)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&theme=dark&cache_seconds=86400)
+
 
 ---
 
