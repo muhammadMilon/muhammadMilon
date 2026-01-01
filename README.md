@@ -50,19 +50,60 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 My GitHub Stats
 
+<!-- Using <picture> element for dark/light mode support -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=default&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=default&count_private=true&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark" alt="Streak Stats" />
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=default"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&langs_count=8&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&langs_count=8&theme=default"
+      alt="Top Languages"
+    />
+  </picture>
 </p>
+
 
 ---
 
