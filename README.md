@@ -69,8 +69,8 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
   <a href="https://github.com/muhammadMilon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/hiMiilon" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
