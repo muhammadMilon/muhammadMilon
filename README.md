@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/muhammadMilon/muhammadMilon/main/github-banner.png" alt="GitHub Banner" />
 </p>
 
 # Hi there 👋, ***Assalamu Alaikum***
@@ -52,12 +52,17 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 
 ## 📊 GitHub Stats  
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadMilon&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark" alt="Streak Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&theme=dark&cache_seconds=86400)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
@@ -78,6 +83,7 @@ Currently, I’m exploring **Next.js**, modern React patterns, and **AI/ML funda
 ---
 
 [![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="center">
-  <img src="./gitartwork.svg" alt="GitHub Art" />
+  <img src="https://raw.githubusercontent.com/muhammadMilon/muhammadMilon/main/gitartwork.svg" alt="GitHub Art" />
 </p>
