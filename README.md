@@ -4,7 +4,7 @@
 
 # Hi there 👋, ***Assalamu Alaikum***
 My name is **Muhammad Milon**  
-#### Frontend & Full-Stack Developer | CSE Undergraduate | Passionate Programmer 👨‍💻  
+#### MERN-Stack Developer | CSE Undergraduate | Passionate Programmer 👨‍💻  
 
 ---
 
