@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadMilon/muhammadMilon/main/github-banner.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/muhammadMilon/muhammadMilon/main/githuBanner.png" alt="GitHub Banner" />
 </p>
 
 # Hi there 👋, ***Assalamu Alaikum***
